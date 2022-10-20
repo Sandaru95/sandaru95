@@ -10,10 +10,6 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Joined ExternOS team at age of 15
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Under the Influence" width="350" />](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb?si=98bc30485bc341d6)
-
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/sandaru95" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
