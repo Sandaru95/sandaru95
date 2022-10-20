@@ -1,19 +1,17 @@
 ### Hi there, I'm Sandaru Rasanjana 👋
 
 [![Website](https://img.shields.io/website?label=sandaru95.github.io&style=for-the-badge&url=https%3A%2F%2Fsandaru95.github.io)](https://sandaru95.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%SandaruRasanja6&screen_name=SandaruRasanja6)
 
-## I'm a Student, Developer, and a Youtuber!!
+## I'm a Student, Developer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: Joined ExternOS team at age of 15
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/album/7vus4Q8r5DS2Dl1JClxEsA)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb?si=98bc30485bc341d6)
 
 ### Connect with me:
 
