@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sandaru</h1>
+<h1 align="center">Hi 👋, I'm Sandaru <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <h3 align="center">A software engineer from Sri Lanka</h3>
 
 [![Website](https://img.shields.io/website?label=sandaru95.github.io&style=for-the-badge&url=https%3A%2F%2Fsandaru95.github.io)](https://sandaru95.github.io)
