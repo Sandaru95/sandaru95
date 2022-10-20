@@ -50,7 +50,9 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 <br />
-<img align="center" id="example-view" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=4mvusbbuhhe7eh3kxkzq2w3bp&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;bar_color=53b14f&amp;bar_color_cover=false">
+<p align="center">
+<img id="example-view" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=4mvusbbuhhe7eh3kxkzq2w3bp&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;bar_color=53b14f&amp;bar_color_cover=false">
+</p>
 <br />
 <h2>Latest Tweets</h2>
 <p><a href="https://twitter.com/sandarurasanjan"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=sandarurasanjan&amp;layout=wide" alt="github-readme-twitter"></a></p>
