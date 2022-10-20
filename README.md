@@ -54,6 +54,16 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 <br />
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://guilyx.vercel.app/api/top-played">
+</p>
+<br />
 <h2>Latest Tweets</h2>
 <p><a href="https://twitter.com/sandarurasanjan"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=sandarurasanjan&amp;layout=wide" alt="github-readme-twitter"></a></p>
 <br />
