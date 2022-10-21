@@ -66,9 +66,10 @@
 3. ❗️ Closed issue [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 4. 🗣 Commented on [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 5. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sandaru95&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+  <br />
 [![Sandaru95's github activity graph](https://activity-graph.herokuapp.com/graph?username=sandaru95&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--END_SECTION:activity-->
-[![trophy](https://github-profile-trophy.vercel.app/?username=sandaru95&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
 
 <details>
