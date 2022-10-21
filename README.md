@@ -78,12 +78,3 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sandaru95&show_icons=true&hide_border=true" />
 
 </details>
-
-[website]: https://sandaru95.github.io
-[course]: https://sandaru95.github.io
-[twitter]: https://twitter.com/SandaruRasanja6
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://www.linkedin.com/in/sandaru-rasanjana-61a49b211/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[myYoutubeChannel]: https://www.youtube.com/channel/UCnd3QhdD6S-10qUYKIXFr6Q
