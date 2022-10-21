@@ -66,6 +66,7 @@
 3. ❗️ Closed issue [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 4. 🗣 Commented on [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 5. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+[![Sandaru95's github activity graph](https://activity-graph.herokuapp.com/graph?username=sandaru95&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--END_SECTION:activity-->
 
 </details>
