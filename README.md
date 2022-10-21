@@ -68,7 +68,9 @@
 5. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 [![Sandaru95's github activity graph](https://activity-graph.herokuapp.com/graph?username=sandaru95&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--END_SECTION:activity-->
+<p style="text-align:center;">
 [![trophy](https://github-profile-trophy.vercel.app/?username=sandaru95&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 </details>
 
 <details>
