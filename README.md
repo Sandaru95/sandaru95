@@ -57,8 +57,6 @@
 <h2>Latest Tweets</h2>
 <p><a href="https://twitter.com/sandarurasanjan"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=sandarurasanjan&amp;layout=wide" alt="github-readme-twitter"></a></p>
 <br />
----
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
