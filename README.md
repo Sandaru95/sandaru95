@@ -1,4 +1,4 @@
-<p align=right> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandaru95" alt="sandaru95" /></a> </p>
+<p align=right> <img src="https://komarev.com/ghpvc/?username=sandaru95&label=Profile%20views&color=0e75b6&style=flat" alt="sandaru95" /> </p>
 <h1 align="center">Hi 👋, I'm Sandaru </h1>
 <h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> A software engineer from <img src="https://hatscripts.github.io/circle-flags/flags/lk.svg" width="16"> Sri Lanka</h3>
 
@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Joined ExternOS team at age of 15
-<p style="display:inline-block;"> <img src="https://komarev.com/ghpvc/?username=sandaru95&label=Profile%20views&color=0e75b6&style=flat" alt="sandaru95" /> </p>
+<p align=center> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandaru95" alt="sandaru95" /></a> </p>
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/sandaru95" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
