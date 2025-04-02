@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Sandaru!;" />
 </h1>
 <h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> A software engineer from <img src="https://hatscripts.github.io/circle-flags/flags/lk.svg" width="16"> Sri Lanka</h3>
-<p align=center style="text-align:center;">
 [![Website](https://img.shields.io/website?label=sandaru95.github.io&style=for-the-badge&url=https%3A%2F%2Fsandaru95.github.io)](https://sandaru95.github.io)
 ## I'm a Student, Developer!!
 
@@ -11,7 +10,6 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Joined ExternOS team at age of 15
-</p>
 <p align=center> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandaru95" alt="sandaru95" /></a> </p>
 <h3>Where to find me</h3>
 <p>
