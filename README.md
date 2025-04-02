@@ -1,6 +1,6 @@
 <p align=right> <img src="https://komarev.com/ghpvc/?username=sandaru95&label=Profile%20views&color=0e75b6&style=flat" alt="sandaru95" /> </p>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sandaru!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Sandaru+Rasanjana+Here!+👋;" />
 </h1>
 <h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> A software engineer from <img src="https://hatscripts.github.io/circle-flags/flags/lk.svg" width="16"> Sri Lanka</h3>
 
