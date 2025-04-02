@@ -2,7 +2,8 @@
 <h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> A software engineer from <img src="https://hatscripts.github.io/circle-flags/flags/lk.svg" width="16"> Sri Lanka</h3>
 
 [![Website](https://img.shields.io/website?label=sandaru95.github.io&style=for-the-badge&url=https%3A%2F%2Fsandaru95.github.io)](https://sandaru95.github.io)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandaru95&label=Profile%20views&color=0e75b6&style=flat" alt="sandaru95" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandaru95" alt="sandaru95" /></a> </p>
 ## I'm a Student, Developer!!
 
 - 🌱 I’m currently learning everything 🤣
