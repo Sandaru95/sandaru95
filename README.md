@@ -90,5 +90,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandaru95&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
     <br>
 </div>
-
+<div style="width: 100%; text-align:center;">
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4mvusbbuhhe7eh3kxkzq2w3bp&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
