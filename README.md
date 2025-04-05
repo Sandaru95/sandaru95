@@ -5,6 +5,8 @@
 <h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> A software engineer from <img src="https://hatscripts.github.io/circle-flags/flags/lk.svg" width="16"> Sri Lanka</h3>
 
 [![Website](https://img.shields.io/website?label=sandaru95.github.io&style=for-the-badge&url=https%3A%2F%2Fsandaru95.github.io)](https://sandaru95.github.io)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4mvusbbuhhe7eh3kxkzq2w3bp&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 ## I'm a Student, Developer!!
 
 - 🌱 I’m currently learning everything 🤣
@@ -90,5 +92,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandaru95&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
     <br>
 </div>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4mvusbbuhhe7eh3kxkzq2w3bp&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
