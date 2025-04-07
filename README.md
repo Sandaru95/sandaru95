@@ -15,7 +15,6 @@
 - 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Joined ExternOS team at age of 15
 <p align=center> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandaru95" alt="sandaru95" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=sandaru95)](https://github.com/ryo-ma/github-profile-trophy)
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/sandaru95" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
@@ -94,3 +93,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandaru95&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
     <br>
 </div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=sandaru95)](https://github.com/ryo-ma/github-profile-trophy)
